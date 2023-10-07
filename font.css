@@ -1,0 +1,9 @@
+body{overflow-x:hidden;}
+@font-face {
+font-family: myFirstFont;
+src: url(./SofiaSans-VariableFont_wght.ttf);
+}
+
+* {
+font-family: myFirstFont, sans-serif;
+}
