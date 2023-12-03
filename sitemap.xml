@@ -1,67 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>https://braunberg.eu/</loc>
-  <lastmod>2023-10-23T08:50:49+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>http://braunberg.eu/./index.html</loc>
 </url>
 <url>
-  <loc>https://braunberg.eu/index.html</loc>
-  <lastmod>2023-10-23T08:50:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://braunberg.eu/./collets.html</loc>
 </url>
 <url>
-  <loc>https://braunberg.eu/collets.html</loc>
-  <lastmod>2023-10-23T08:50:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://braunberg.eu/./vbits.html</loc>
 </url>
 <url>
-  <loc>https://braunberg.eu/vbits.html</loc>
-  <lastmod>2023-10-23T08:50:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://braunberg.eu/./flatbottom.html</loc>
 </url>
 <url>
-  <loc>https://braunberg.eu/flatbottom.html</loc>
-  <lastmod>2023-10-23T08:50:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://braunberg.eu/./plosuk.html</loc>
 </url>
 <url>
-  <loc>https://braunberg.eu/plosuk.html</loc>
-  <lastmod>2023-10-23T08:50:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://braunberg.eu/./profilsin.html</loc>
 </url>
 <url>
-  <loc>https://braunberg.eu/profilsin.html</loc>
-  <lastmod>2023-10-23T08:50:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://braunberg.eu/./zakruglen.html</loc>
 </url>
 <url>
-  <loc>https://braunberg.eu/zakruglen.html</loc>
-  <lastmod>2023-10-23T08:50:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://braunberg.eu/./plosukjult.html</loc>
 </url>
 <url>
-  <loc>https://braunberg.eu/plosukjult.html</loc>
-  <lastmod>2023-10-23T08:50:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://braunberg.eu/./pravjult.html</loc>
 </url>
 <url>
-  <loc>https://braunberg.eu/pravjult.html</loc>
-  <lastmod>2023-10-23T08:50:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://braunberg.eu/./plosuknormalen.html</loc>
 </url>
 <url>
-  <loc>https://braunberg.eu/plosuknormalen.html</loc>
-  <lastmod>2023-10-23T08:50:49+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://braunberg.eu/tel:+359882754424</loc>
 </url>
-
-
 </urlset>
